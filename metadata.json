@@ -1,0 +1,6 @@
+{
+  "name": "PROJECT 3D | Prototipado Industrial y Fabricación Aditiva",
+  "description": "Plataforma integral de prototipado industrial, impresión 3D técnica y cotizador de archivos STL de PROJECT 3D en Torrijos, Toledo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
